@@ -4,7 +4,7 @@ from quizbrain import QuizBrain
 
 question_bank=[]
 
-for question in question_dataq
+for question in question_data:
     question_text= question ["text"]
     question_answer=question["answer"]
     new_question=Question(question_text,question_answer)
