@@ -1,0 +1,37 @@
+./Day17/.idea/
+        ../Day17/README.md
+        ../Day17/__pycache__/
+        ../Day17/coffee.py
+        ../Day17/cursordirection.py
+        ../Day17/data.py
+        ../Day17/example.py
+        ../Day17/hirstpaint.py
+        ../Day17/image.jpg
+        ../Day17/qnsmodel.py
+        ../Day17/quizbrain.py
+        ../Day17/turtle1.py
+        ../Day17/turtle2.py
+        ../Day17/turtle3.py
+        ../Day17/turtlerace.py
+        ../PythonProject/.idea/.gitignore
+        ../PythonProject/.idea/.name
+        ../PythonProject/.idea/inspectionProfiles/
+        ../PythonProject/.idea/misc.xml
+        ../PythonProject/.idea/modules.xml
+        ../PythonProject/.idea/vcs.xml
+        ../PythonProject/cache/
+        ../PythonProject/dataset.csv
+        ../PythonProject/places_data.csv
+        ../PythonProject2/
+        ../PythonProject3/
+        ../PythonProject4/
+        ../PythonProject5/
+        ../Pythonday16/.idea/.gitignore
+        ../Pythonday16/.idea/inspectionProfiles/
+        ../Pythonday16/.idea/misc.xml
+        ../Pythonday16/.idea/modules.xml
+        ../Pythonday16/.idea/vcs.xml
+        ../ml integrate/
+        ../oop-coffeemachine/.idea/
+        ../oop-coffeemachine/__pycache__/
+        ../oop-coffeemachine/money_machine.py
