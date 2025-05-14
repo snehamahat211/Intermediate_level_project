@@ -1,1 +1,1 @@
-This consist the simple intermediate projects which helps to learn python from basic level.
+simple intermediate projects which helps to learn python from basic level.
