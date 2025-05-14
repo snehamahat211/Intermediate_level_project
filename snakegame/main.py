@@ -7,9 +7,6 @@ screen.bgcolor("black")
 screen.title(" our snake game")
 screen.tracer(0)
 
-
-
-
 starting_position=[(0,0),(-20,0),(-40,0)]
 segments=[]
 for position in starting_position:
