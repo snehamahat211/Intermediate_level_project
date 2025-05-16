@@ -1,0 +1,57 @@
+snake game
+
+phase1 :
+  step1-create a snake body
+
+  step2-move the snake
+
+  step3-control the snake
+
+
+Phase2 :
+
+  step4:Detect collision with food
+
+  step5:create a scoreboard
+
+  step6:detect collision with wall
+
+  step7:detect collision with tail
+
+
+
+
+
+class inheritence-
+eg-pastry shop with bake() stir() measure()
+no need to make full step for new
+
+class Fish:
+    def __init__(self):
+    super().__init__()
+
+
+class Animal:
+    def__init__(self):
+       self.num_eyes=2
+
+    def breathe(self):
+    print("inhale exhale")
+
+class Fish(Animal):
+    def __init__(self):
+    super().__init__()
+    def breathe(self):
+
+    def breathe(self):
+    super().breathe()
+    print("doing this underwater")
+
+
+    def swim(self):
+    print("moving in water")
+
+
+nemo=Fish()
+nemo.swim()
+
