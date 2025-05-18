@@ -55,3 +55,11 @@ class Fish(Animal):
 nemo=Fish()
 nemo.swim()
 
+
+
+python slicing
+piano_keys=["a","b","c","d","e"]
+print(piano_keys[2:5])
+print(piano_keys[2:])  -print the rest of the piano string after b
+print(piano_keys[2:5:2])
+
