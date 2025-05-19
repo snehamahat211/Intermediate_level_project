@@ -1,0 +1,2 @@
+tracer(0)-helps with removing animation
+screen.update=updates the screen by turning off animations
