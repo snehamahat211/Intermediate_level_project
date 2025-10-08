@@ -1,6 +1,6 @@
 ## Intermediate projects Outputs
 
-### Snakegame:
+## Snakegame:
 #### Instruction
 - Click Key 'W' for up
 - Click Key 'S' for down
@@ -11,7 +11,7 @@ If snake touches the boarder or collide with own body, the 'Game Over'.
 
 ![Output](Snakegame.png)
 
-#### PongGame
+## PongGame
 #### Instruction
 for right pong
 - Click Key 'W' for up
