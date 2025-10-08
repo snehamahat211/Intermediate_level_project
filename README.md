@@ -1,4 +1,4 @@
-## Intermediate projects Outputs
+## Some Intermediate projects Outputs
 
 ## Snakegame:
 #### Instruction
@@ -25,5 +25,24 @@ for left pong
 If you are unable to hit the pong you will increase by 1 score and the one with higher score loses the game.
 
 ![Output](pingpong.png)
+
+
+## Cursor Direction
+To move cursor
+
+- Click Key 'W' for up
+- Click Key 'S' for down
+- Click Key 'A' for left
+- Click Key 'D' for right
+
+![Output](cursordirection.png)
+
+## Hrist paint
+-Random circle color generating paint that automatically run and generates square shape.
+
+![Output](Hristpaint.png)
+
+
+
 
 
