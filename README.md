@@ -4,6 +4,6 @@
 ![Output](Snakegame.png)
 
 #### PongGame
-![Output](ponggame.png)
+![Output](pingpong.png)
 
 
